@@ -1,4 +1,4 @@
-h1 {
+h2 {
 	color:rgb(89, 206, 135);
 	background-color: rgb(200, 233, 210);
 }
@@ -6,4 +6,7 @@ h1 {
 img {
 
 	max-width: 600px;
+}
+div {
+	border: 1px dashed red;
 }
